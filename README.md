@@ -16,3 +16,5 @@ The error I'm getting I can't make sense of is:
   at <Anonymous ref="VTU_COMPONENT" > 
   at <VTUROOT>
 ```
+
+Please note that the component rendered, but the slot content did not.
