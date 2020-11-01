@@ -7,7 +7,6 @@ Please follow these steps to run this test:
 
 ```sh
 yarn install
-~~( cd node_modules/@testing-library/vue/ ; yarn install ; yarn build )~~
 yarn test
 ```
 
