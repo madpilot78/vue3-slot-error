@@ -1,7 +1,6 @@
 # Testcase for error with vue3 slots
 
-I'm using the vue3 branch of vue test utils. That repo iss not providing a compiled module. Please follow this steps to run this test:
-
+I'm using the vue3 branch of vue test utils. That repo is not providing a compiled module. Please follow these steps to run this test:
 
 ```sh
 yarn install
