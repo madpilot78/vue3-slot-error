@@ -1098,9 +1098,10 @@
     lodash "^4.17.15"
     redent "^3.0.0"
 
-"@testing-library/vue@https://github.com/testing-library/vue-testing-library#next":
-  version "0.0.0-semantically-released"
-  resolved "https://github.com/testing-library/vue-testing-library#bcf2951f8804f22250bbac803a647815fec30c66"
+"@testing-library/vue@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/vue/-/vue-6.0.0.tgz#840756e35dc9cce6e6ca081c5598ef3a09c3efad"
+  integrity sha512-kYwY94hqaq7SvCWLqkMDPF9ZylIVHh7IrXHwZZjoRvBCCHKE9+Um2Fp98eFB6ksOzS5ttB4qnU8P07csTpHVVQ==
   dependencies:
     "@babel/runtime" "^7.12.1"
     "@testing-library/dom" "^7.26.3"
@@ -1318,18 +1319,18 @@
   integrity sha512-Zx869zlNoujFOclKIoYmkh8ES2RcS/+Jn546yOiPyZ+3+Ejivnr+fb8l+DdXUEFjo+iVDNR3KyLzg03aBFfZ4Q==
 
 "@vue/test-utils@^1.0.3":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.1.0.tgz#76305e73a786c921ede1352849614e26c7113f94"
-  integrity sha512-M+3jtVqNYIrvzO5gaxogre5a5+96h0hN/dXw+5Lj0t+dp6fAhYcUjpLrC9j9cEEkl2Rcuh/gKYRUmR5N4vcqPw==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.1.1.tgz#01c3e4b22ed2b85d2e276b34d32c8ac4b726e452"
+  integrity sha512-/32538ilZ9qSiu1gui7zfBn+IFy+zoTaQTZ1qiLfQXzZtaeAD23kJMrnqaoe2w8JzJoXuqHUl2ruuStG8rwFYQ==
   dependencies:
     dom-event-types "^1.0.0"
     lodash "^4.17.15"
     pretty "^2.0.0"
 
 "@vue/test-utils@^2.0.0-beta.6", "@vue/test-utils@^2.0.0-beta.7":
-  version "2.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.0.0-beta.7.tgz#27751991e0b013ee4af487e51e16a58d477e5857"
-  integrity sha512-cAe7VqoxxkxTr/2N93UpW/LQbcUVKC+QRA3ZBq5ZWImtAf/8jtcdC2mQ9g4AKmSvyaKQtqxrRn4i/y5z7yrrKA==
+  version "2.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.0.0-beta.8.tgz#13be1a31f4d6d396e2a9d595d4e0f236421eba98"
+  integrity sha512-ksQYCzBINZy9iSb9jCo3AbfTEQ2Xw7NEyGA07frqNZ3tHG4pBnnRrTi+zoS7wi89f41eyx2zVhAF/mvzDKNG2A==
 
 abab@^2.0.3:
   version "2.0.5"
